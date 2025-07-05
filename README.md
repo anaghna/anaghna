@@ -4,12 +4,14 @@
 <br>
 <h1 align="center">Hi, I'm Anaghna</h1>
 
-<h3 align="left">About Me:</h3>
+### 📌 About Me
+
 - 🧑‍🎓 **CS undergraduate at RIT Kottayam**
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **anaghnaarun@gmail.com**
 - ⚡ Fun fact: **I like computer science**
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
