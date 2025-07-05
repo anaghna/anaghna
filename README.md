@@ -4,6 +4,7 @@
 <br>
 <h1 align="center">Hi, I'm Anaghna</h1>
 
+<h3 align="left">About Me:</h3>
 - 🧑‍🎓 **CS undergraduate at RIT Kottayam**
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about **anything**
