@@ -9,7 +9,6 @@
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **anaghnaarun@gmail.com**
 - ⚡ Fun fact: **I like computer science**
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
