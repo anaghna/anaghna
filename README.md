@@ -61,8 +61,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-  <img src="https://greensock.com/uploads/monthly_2020_05/greensock-logo.svg.7f2d6dbeae7b90a1e274f7c3b92d6a1a.svg" alt="gsap" width="80" height="40"/>
+  ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
 </a>
 </p>
 
